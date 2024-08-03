@@ -3,7 +3,7 @@
 ## Overview
 
 This repository contains a comprehensive analysis of Target's sales data in Brazil, focusing on orders placed between 2016 and 2018. The analysis utilizes SQL queries and Python visualization libraries to explore various aspects of the dataset, including order status, pricing, payment and shipping performance, customer locations, product attributes, and customer reviews.
-![Sales Visualization](images/image.png)
+![](images/schema.png)
 
 ## Dataset
 
